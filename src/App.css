@@ -31,3 +31,17 @@
     transform: rotate(360deg);
   }
 }
+
+.theLogo g{
+  fill: red;
+}
+
+.theLogo g:hover{
+ fill: blueviolet; 
+}
+
+h1{
+  font-family:'Bigelow Rules';
+  font-size: 72px;
+  color: #0cca04;
+}
