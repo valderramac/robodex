@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/robodex/static/css/main.24fa7f5e.chunk.css",
+    "main.js": "/robodex/static/js/main.1e7a0d94.chunk.js",
+    "main.js.map": "/robodex/static/js/main.1e7a0d94.chunk.js.map",
+    "runtime~main.js": "/robodex/static/js/runtime~main.282bd38b.js",
+    "runtime~main.js.map": "/robodex/static/js/runtime~main.282bd38b.js.map",
+    "static/js/2.3d8af1b9.chunk.js": "/robodex/static/js/2.3d8af1b9.chunk.js",
+    "static/js/2.3d8af1b9.chunk.js.map": "/robodex/static/js/2.3d8af1b9.chunk.js.map",
+    "index.html": "/robodex/index.html",
+    "precache-manifest.5acaab5e706490fdf5bfc66ca5ffdada.js": "/robodex/precache-manifest.5acaab5e706490fdf5bfc66ca5ffdada.js",
+    "service-worker.js": "/robodex/service-worker.js",
+    "static/css/main.24fa7f5e.chunk.css.map": "/robodex/static/css/main.24fa7f5e.chunk.css.map",
+    "static/media/logo.5d5d9eef.svg": "/robodex/static/media/logo.5d5d9eef.svg"
+  }
+}
